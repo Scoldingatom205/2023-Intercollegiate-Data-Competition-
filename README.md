@@ -42,11 +42,8 @@ Spa and Tennis court are interesting because excluding it drops scores by a <1% 
 
 **3. Capitalize on High-Performing Regions:** Although North America and EU leads in review volume, focus on strategies to attract travelers from Asia, who leave 25% more reviews on average. Develop tailored experiences for South American guests as they leave the highest scored reviews but are among the lowest review givers.
 
-**4. Optimize Hotel Star Rating:** Promote 3.5 and 4.5-Star Hotels as these hotels yield the highest average review volume. Consider strategies to enhance hotels standing in these categories. As for 5-Star Hotels, they can continue delivering great service as they lead in review scores but fall behing on review volumn. They can encourage visitors to leave more reviews!
+**4. Prioritize Essential Amenities and Reconsider Other Amenities:** Ensure Pool and Free Internet are always available! Excluding these amenities drastically lowers scores (up to 80% decrease) but increase reviews significantly. Spa and Tennis Court on the other hand, have minimal impact, but consider their inclusion based on overall guest experience rather than score alone.
 
-**5. Prioritize Essential Amenities and Reconsider Other Amenities:** Ensure Pool and Free Internet are always available! Excluding these amenities drastically lowers scores (up to 80% decrease) but increase reviews significantly. Spa and Tennis Court on the other hand, have minimal impact, but consider their inclusion based on overall guest experience rather than score alone.
-
-**6. Maintain Quality Service Year-Round:** Hotels can Capitalize on the higher scores received between December and February to boost off-season occupancy and ratings. Perhaps offer special promotions for stays between Dec-Feb and target Friends and Couples for high scores.
 
 ## Final Dashboard
 The dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/rodrigo.suarez5210/viz/TripAdvisorDashboard_Public/TripADASH). This dashboard enables users to filter by period of stay, traveler type, hotel stars, and continent. The graphs also work as filters.
