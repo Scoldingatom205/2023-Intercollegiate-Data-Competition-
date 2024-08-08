@@ -2,14 +2,14 @@
 1 of 12 teams to compete in Intercollegiate Datathon @ Alteryx in December 2023.
 My team took 4th place and awared Judge's Choice Award!
 
-## Business Question: How can hotels predict a TripAdvisor review, and what amenities should hotels prioritize in order to ensure the highest review?
+### Business Question: How can hotels predict a TripAdvisor review, and what amenities should hotels prioritize in order to ensure the highest review?
 
-### Dataset Structure
+## Dataset Structure
 We were given an excel file filled with Las Vegas Hotels TripAdvisor data. Includes details about users, hotels, and reviews. The data was organized in chronological order
 according to period of stay column and alphabetical order for hotels. Each hotel has 24 users where each row represents one user.
 ![image](https://github.com/user-attachments/assets/1cd7cba1-07b3-4efb-951c-ba4bb40f5018)
 
-### Insights Summary
+## Insights Summary
 The business question wanted to address two KPI's:
   - **Number of Hotel Reviews:** Tripadvisor collects all reviews left by user. The (Nr. hotel reviews) column is the aggregate of only hotel reviews left by that user.
   - **Score:** The average score of all hotel scores the user has every given.
@@ -35,7 +35,7 @@ Among the highest reviewed, Aug comes in with the second highest reviews score.
 When pool is excluded 77% decrease in average score. When free internet is excluded 80% decrease in average score. Gym sees about 1% decreases when excluded.
 Spa and Tennis court are interesting because excluding it drops scores by a <1% but including increases scores by 1% and 3% respectively.
 
-### Recommendations
+## Recommendations
 **1. Maximize Review Volume:** Encourage Saturdays and Sundays stays as they generate 35% of total reviews, with customers leaving 25% more reviews on average. Focus on Peak Months, August and September, as they see a 44% increase in reviews. Especially August.
 
 **2. Target High-Impact Traveler Segments:** Like Business Travelers who leave 40% more reviews on average but be careful as they leave lower scores. Couples and Friends are a quiet pick as they leave higher scores and just a few more reviews on average.
@@ -47,6 +47,14 @@ Spa and Tennis court are interesting because excluding it drops scores by a <1% 
 **5. Prioritize Essential Amenities and Reconsider Other Amenities:** Ensure Pool and Free Internet are always available! Excluding these amenities drastically lowers scores (up to 80% decrease) but increase reviews significantly. Spa and Tennis Court on the other hand, have minimal impact, but consider their inclusion based on overall guest experience rather than score alone.
 
 **6. Maintain Quality Service Year-Round:** Hotels can Capitalize on the higher scores received between December and February to boost off-season occupancy and ratings. Perhaps offer special promotions for stays between Dec-Feb and target Friends and Couples for high scores.
+
+## Final Dashboard
+The dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/rodrigo.suarez5210/viz/TripAdvisorDashboard_Public/TripADASH). This dashboard enables users to filter by period of stay, traveler type, hotel stars, and continent. The graphs also work as filters.
+
+![image](https://github.com/user-attachments/assets/d2b393c0-4347-4bce-a08a-8ca012b31498)
+
+## Final Presentation 
+The data competition gave us 6 hours to conduct the analysis, answer the business question, and prepare the presentation. Then we had 5 minutes to present it in front of a panel of judges. Presentation can be found under the README file. Thanks for reading :)
 
 
 
