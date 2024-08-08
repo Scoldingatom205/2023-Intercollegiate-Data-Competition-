@@ -51,7 +51,9 @@ The dashboard can be found in Tableau Public [here](https://public.tableau.com/a
 ![image](https://github.com/user-attachments/assets/d2b393c0-4347-4bce-a08a-8ca012b31498)
 
 ## Final Presentation 
-The data competition gave us 6 hours to conduct the analysis, answer the business question, and prepare the presentation. Then we had 5 minutes to present it in front of a panel of judges. Presentation can be found under the README file titled TripAdvisor Datathon pdf. Thanks for reading :)
+The data competition gave us 6 hours to conduct the analysis, answer the business question, and prepare the presentation. Then we had 5 minutes to present it in front of a panel of judges. Presentation can be found under the README file titled TripAdvisor Datathon pdf. 
+
+Thanks for reading :)
 
 
 
