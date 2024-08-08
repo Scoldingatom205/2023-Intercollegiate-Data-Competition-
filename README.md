@@ -1,6 +1,6 @@
 # TripAdvisor Analysis - Project Overview
 1 of 12 teams to compete in Intercollegiate Datathon @ Alteryx in December 2023.
-My team took 4th place and awared Judge's Choice Award!
+My team took 4th place and awarded Judge's Choice Award!
 
 ### Business Question: How can hotels predict a TripAdvisor review, and what amenities should hotels prioritize in order to ensure the highest review?
 
